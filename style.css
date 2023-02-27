@@ -23,6 +23,16 @@ mark{
     background-color: yellow;
 }
 
+thead{
+    background-color: blue;
+}
+
+
+
 #titlefooter{
     color: grey;
+}
+
+.tr1{
+    background-color: aqua;
 }
