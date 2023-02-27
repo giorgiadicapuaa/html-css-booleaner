@@ -1,5 +1,5 @@
 .logo{
-    background-image: url(../img/pattern.png);
+    background-image: url(./img/pattern.png);
     background-color: blue;
     height: 100px ;
      
@@ -9,4 +9,12 @@
      width: 100px;
      margin-top: 70px;
      margin-left: 30px;
+ }
+
+ h2{
+    color: grey;
+ }
+
+ #thebooleaner{
+    color: blue;
  }
