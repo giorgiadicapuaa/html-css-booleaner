@@ -1,0 +1,12 @@
+.logo{
+    background-image: url(../img/pattern.png);
+    background-color: blue;
+    height: 100px ;
+     
+ }
+ 
+ #logo1{
+     width: 100px;
+     margin-top: 70px;
+     margin-left: 30px;
+ }
