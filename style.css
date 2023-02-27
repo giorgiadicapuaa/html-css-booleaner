@@ -36,3 +36,12 @@ thead{
 .tr1{
     background-color: aqua;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.spazio{
+    width: 25%;
+}
