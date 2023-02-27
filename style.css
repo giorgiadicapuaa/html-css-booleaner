@@ -45,3 +45,21 @@ table{
 .spazio{
     width: 25%;
 }
+
+#lorem{
+    background-image: url(./img/monitor.jpg);
+    background-repeat: no-repeat;
+   color: white;
+   font-size: 20px;
+   width: 240px;
+  height: 150px;
+}
+
+#lorem1{
+    background-image: url(./img/graph.jpg);
+    background-repeat: no-repeat;
+   color: white;
+   font-size: 20px;
+   width: 240px;
+  height: 150px;
+}
